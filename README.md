@@ -5,4 +5,6 @@
 
 <!---
 PiotrKrupski/PiotrKrupski is a repository of automitive engineer learning how to code using Python.
+
+My first repository on GitHub
 --->
